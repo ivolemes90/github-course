@@ -7,3 +7,5 @@ Este é um repositório teste para saber como o git funciona.
 O curso está sendo ótimo!
 
 Continuando o curso!
+
+Testando o comando git commit -am.
