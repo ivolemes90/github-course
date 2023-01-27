@@ -9,3 +9,5 @@ O curso está sendo ótimo!
 Continuando o curso!
 
 Testando o comando git commit -am.
+
+Enviando mudanças para um repositório.
